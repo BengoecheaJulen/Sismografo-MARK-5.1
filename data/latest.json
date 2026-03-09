@@ -3,11 +3,11 @@
   "state": "VERDE",
   "color": "#22C55E",
   "description": "Normal",
-  "cq": 0.2367,
-  "lambda": 0.0476,
-  "delta": 0.007,
-  "sigma_pred": 0.1268,
-  "sigma_real": 0.1405,
-  "gamma": 0.2259,
+  "cq": 0.2352,
+  "lambda": 0.0471,
+  "delta": 0.0074,
+  "sigma_pred": 0.1264,
+  "sigma_real": 0.1333,
+  "gamma": 0.247,
   "alert_accumulation": 0.0
 }
