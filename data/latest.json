@@ -1,0 +1,12 @@
+{
+  "date": "2021-12-31",
+  "state": "CALMA",
+  "color": "#064E3B",
+  "cq": 0.1693,
+  "lambda": 0.0471,
+  "delta": 0.0266,
+  "sigma_pred": 0.1233,
+  "sigma_real": 0.167,
+  "gamma": 0.1193,
+  "alert_accumulation": 0
+}
