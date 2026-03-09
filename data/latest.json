@@ -7,7 +7,7 @@
   "lambda": 0.0471,
   "delta": 0.0074,
   "sigma_pred": 0.1264,
-  "sigma_real": 0.1333,
-  "gamma": 0.247,
+  "sigma_real": 0.1332,
+  "gamma": 0.2483,
   "alert_accumulation": 0.0
 }
