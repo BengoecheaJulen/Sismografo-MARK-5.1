@@ -1,13 +1,13 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-09",
   "state": "CALMA",
   "color": "#064E3B",
   "description": "Calma",
-  "cq": 0.1227,
-  "lambda": 0.0132,
-  "delta": 0.0005,
+  "cq": 0.1228,
+  "lambda": 0.0131,
+  "delta": 0.0004,
   "sigma_pred": 0.0953,
-  "sigma_real": 0.1385,
-  "gamma": 0.246,
+  "sigma_real": 0.1395,
+  "gamma": 0.2314,
   "alert_accumulation": 0.0
 }
