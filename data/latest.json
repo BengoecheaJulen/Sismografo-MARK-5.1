@@ -1,13 +1,13 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "state": "VERDE",
   "color": "#22C55E",
   "description": "Normal",
-  "cq": 0.2352,
-  "lambda": 0.0471,
-  "delta": 0.0074,
-  "sigma_pred": 0.1264,
-  "sigma_real": 0.1328,
-  "gamma": 0.2511,
+  "cq": 0.2384,
+  "lambda": 0.0476,
+  "delta": 0.0091,
+  "sigma_pred": 0.127,
+  "sigma_real": 0.1156,
+  "gamma": 0.287,
   "alert_accumulation": 0.0
 }
