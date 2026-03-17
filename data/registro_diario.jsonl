@@ -1,0 +1,1 @@
+{"date": "2026-03-16", "timestamp": "2026-03-17T13:17:34.964611", "Cq": 0.407285, "Lambda": 0.272432, "Delta": 0.083094, "sigma_pred": 0.200305, "sigma_real": 0.120809, "gamma_t": 0.680779, "entropy": 0.499119, "escalation": 0.347496, "state": "elevated", "percentil_Cq": 45, "percentil_sp": 8, "ratio_lc": 0.6689, "consec_crit": 0}
