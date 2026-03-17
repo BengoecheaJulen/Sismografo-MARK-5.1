@@ -12,7 +12,7 @@ Data updated daily at 22:30 CET (Mon–Fri) · GitHub-timestamped · Immutable r
 
 SEISMIC is a systemic risk detection system that identifies the buildup of conditions preceding market crashes, fat tails, and extreme volatility regimes in the S&P 500. It does **not** predict daily price direction — it detects when the probability of an extreme event is significantly elevated.
 
-The model is based on a proprietary physics-derived framework that processes 6 independent market factors daily. Its signals are **structurally decorrelated** from all standard financial models.
+The model is based on a proprietary physics-derived framework that processes independent market factors daily. Its signals are **structurally decorrelated** from all standard financial models.
 
 ---
 
@@ -112,7 +112,7 @@ Datos actualizados diariamente a las 22:30 CET (Lun–Vie) · Timestamp en GitHu
 
 SEISMIC es un sistema de detección de riesgo sistémico que identifica la acumulación de condiciones que preceden a crashes, colas pesadas y regímenes de volatilidad extrema en el S&P 500. **No** predice la dirección diaria del precio — detecta cuándo la probabilidad de un evento extremo está significativamente elevada.
 
-El modelo está basado en un framework propietario derivado de la física que procesa 6 factores de mercado independientes diariamente. Sus señales están **estructuralmente descorrelacionadas** de todos los modelos financieros estándar.
+El modelo está basado en un framework propietario derivado de la física que procesa factores de mercado independientes diariamente. Sus señales están **estructuralmente descorrelacionadas** de todos los modelos financieros estándar.
 
 ---
 
