@@ -92,7 +92,7 @@ In extreme market events (σ > 0.30), combining SEISMIC with GARCH reduces predi
 
 ## Legal
 
-SEISMIC is a research intelligence system. Signals do not constitute financial advice or investment recommendations. Past performance does not guarantee future results. For institutional research purposes only.
+ SEISMIC MARK 5 is an experimental systemic risk intelligence system based on a proprietary model. This source code, algorithms, architecture, and any models derived from SEISMIC MARK 5 are the exclusive property of Julen Bengoechea Ormaza. This material constitutes a trade secret. Its copying, distribution, reverse engineering, or unauthorized use is strictly prohibited. Signals do not constitute financial advice or investment recommendations. Past performance does not guarantee future results.
 
 ---
 
@@ -192,4 +192,4 @@ En eventos de mercado extremos (σ > 0.30), combinar SEISMIC con GARCH reduce el
 
 ## Aviso Legal
 
-SEISMIC es un sistema de inteligencia de investigación. Las señales no constituyen asesoramiento financiero ni recomendaciones de inversión. Rendimiento pasado no garantiza resultados futuros. Solo para fines de investigación institucional.
+SEISMIC MARK 5 es un sistema experimental de inteligencia de riesgo sistémico basado en un modelo propio. Este código fuente, algoritmos, arquitectura y cualquier modelo derivado de SEISMIC MARK 5 son propiedad exclusiva de Julen Bengoechea Ormaza. Este material constituye un secreto empresarial. Queda terminantemente prohibida su copia, distribución, ingeniería inversa o uso no autorizado. Las señales no constituyen asesoramiento financiero ni recomendaciones de inversión. Los rendimientos pasados no garantizan resultados futuros.
