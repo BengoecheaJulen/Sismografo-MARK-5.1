@@ -30,7 +30,7 @@ The model is based on a proprietary complex systems quantitative framework that 
 | False positives vs predecessor | **−54%** reduction |
 | Combined with GARCH in extreme events (σ > 0.30) | **+28.3%** RMSE improvement |
 | Combined with GARCH in crisis (σ > 0.20) | **+13.0%** RMSE improvement |
-| Lindblad vs classical benchmark | **+77.7%** improvement |
+| My Model vs classical benchmark | **+77.7%** improvement |
 | Historical crises validated | GFC 2008, EU Debt 2011, COVID 2020, Inflation 2022, Tariffs 2025 |
 
 *All metrics computed on data the model has never seen during development.*
